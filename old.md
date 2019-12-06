@@ -12,3 +12,6 @@
 |2019.10.29|[문제1](https://leetcode.com/problems/the-skyline-problem/) [문제2](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [아신] |
 |2019.10.30|[문제1](https://leetcode.com/problems/asteroid-collision/) [문제2](https://leetcode.com/problems/prefix-and-suffix-search/)| [아신] |
 |2019.10.31|[문제1](https://leetcode.com/problems/palindrome-partitioning-ii/) [문제2](https://leetcode.com/problems/decode-string/description/)| [아신] |
+
+
+[아신]: https://github.com/kimtaesu
