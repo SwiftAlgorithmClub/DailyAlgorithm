@@ -1,7 +1,7 @@
 # DailyAlgorithm
 매일 문제가 올라옵니다.
 
-| 날짜 | 쉬운 문제 링크 | 출제자 | 어려운 문제 링크 | 출제자 | 참고자료 |
+| 날짜 | 쉬운 문제 링크 | 출제자 | 어려운 문제 링크 | 출제자 | 비고 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [이전](old.md) |[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 |2019.11.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/12904)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)| [라이노] | - |
@@ -14,7 +14,7 @@
 |2019.11.28|[문제](https://www.acmicpc.net/problem/2839)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12929)| [라이노] | - |
 |2019.11.29|[문제](https://programmers.co.kr/learn/courses/30/lessons/42586)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/49189)| [라이노] | - |
 |2019.11.30|[문제](https://programmers.co.kr/learn/courses/30/lessons/62048)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12952)| [라이노] | - |
-|2019.12.01|[문제](https://programmers.co.kr/learn/courses/30/lessons/42585)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42861)| [라이노] | [민멍구님 문제 풀이](https://www.youtube.com/watch?v=eCAbqDYV1B8&t=679s) |
+|2019.12.01|[문제](https://programmers.co.kr/learn/courses/30/lessons/42585)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42861)| [라이노] | [민멍구님의 쉬운 문제 풀이](https://www.youtube.com/watch?v=eCAbqDYV1B8&t=679s) |
 |2019.12.02|[문제](https://programmers.co.kr/learn/courses/30/lessons/12945)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/43236)| [라이노] | - |
 |2019.12.03|[문제](https://programmers.co.kr/learn/courses/30/lessons/12982)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12978)| [라이노] | - |
 |2019.12.04|[문제](https://programmers.co.kr/learn/courses/30/lessons/42841)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/43163)| [라이노] | - |
