@@ -15,8 +15,7 @@
 |2019.11.29|[문제](https://programmers.co.kr/learn/courses/30/lessons/42586)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/49189)| [라이노] | - |
 |2019.11.30|[문제](https://programmers.co.kr/learn/courses/30/lessons/62048)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12952)| [라이노] | - |
 |2019.12.01|[문제](https://programmers.co.kr/learn/courses/30/lessons/42585)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42861)| [라이노] | [민멍구님 문제 풀이](https://www.youtube.com/watch?v=eCAbqDYV1B8&t=679s) |
-|2019.12.02|[문제](
-https://programmers.co.kr/learn/courses/30/lessons/12945)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/43236)| [라이노] | - |
+|2019.12.02|[문제](https://programmers.co.kr/learn/courses/30/lessons/12945)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/43236)| [라이노] | - |
 |2019.12.03|[문제](https://programmers.co.kr/learn/courses/30/lessons/12982)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12978)| [라이노] | - |
 |2019.12.04|[문제](https://programmers.co.kr/learn/courses/30/lessons/42841)| [라이노] |[문제](https://programmers.co.kr/learn/courses/30/lessons/43163)| [라이노] | - |
 |2019.12.05|[문제](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12971)| [라이노] | - |
