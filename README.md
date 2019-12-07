@@ -21,6 +21,7 @@
 |2019.12.05|[문제](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/12971)| [라이노] | - |
 |2019.12.06|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)| [도미닉] | - | - | - |
 |2019.12.07|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42627)| [라이노] | - |
+|2019.12.08|[문제](https://app.codility.com/c/run/trainingYJVS7Y-7YG/)| [도미닉] | - | [라이노] | - |
 
 
 [라이노]: https://github.com/JCSooHwanCho
