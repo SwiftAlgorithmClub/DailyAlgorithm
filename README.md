@@ -23,7 +23,7 @@
 |2019.12.07|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42627)| [라이노] | - |
 |2019.12.08|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)| [도미닉] | [문제](https://programmers.co.kr/learn/courses/30/lessons/62050) | [라이노] | - |
 |2019.12.09|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)| [도미닉] | [문제](https://programmers.co.kr/learn/courses/30/lessons/43164) | [라이노] | - |
-
+|2019.12.10|[문제](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)| [도미닉] | | [라이노] | - |
 
 
 [라이노]: https://github.com/JCSooHwanCho
