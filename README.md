@@ -30,3 +30,4 @@
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
+[민멍구]: https://github.com/applebuddy
