@@ -26,7 +26,8 @@
 |2019.12.10|[문제](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42895)| [라이노] | - |
 |2019.12.11|[문제](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)| [도미닉] |[문제](https://www.acmicpc.net/problem/15651) | [라이노] | - |
 |2019.12.12|[문제](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)| [도미닉] |   [문제](https://www.acmicpc.net/problem/9465)| [민멍구] | - |
-|2019.12.13|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)| [도미닉] |   | [라이노] | - |
+|2019.12.13|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)| [도미닉] | - | - | - |
+
 
 
 
