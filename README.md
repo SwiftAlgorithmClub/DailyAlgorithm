@@ -29,6 +29,7 @@
 |2019.12.13|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)| [도미닉] | - | - | - |
 |2019.12.14|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [도미닉] |   [문제](https://www.acmicpc.net/problem/11726)| [민멍구] | |
 |2019.12.15|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)|[도미닉]|[문제](https://www.acmicpc.net/problem/2193)|[민멍구]|-|
+|2019.12.15||[도미닉]|[문제](https://www.acmicpc.net/problem/2529)|[민멍구]|-|
 
 
 [라이노]: https://github.com/JCSooHwanCho
