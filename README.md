@@ -31,7 +31,7 @@
 |2019.12.15|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)|[도미닉]|[문제](https://www.acmicpc.net/problem/2193)|[민멍구]|-|
 |2019.12.16|[문제](https://programmers.co.kr/learn/courses/30/lessons/42587)|[도미닉]|[문제](https://www.acmicpc.net/problem/2529)|[민멍구]|-|
 |2019.12.17|[문제](https://programmers.co.kr/learn/courses/30/lessons/12925)|[도미닉]|[문제](https://www.acmicpc.net/problem/1790)|[민멍구]|-|
-|2019.12.18|[문제](https://programmers.co.kr/learn/courses/30/lessons/42860)||[민멍구]|-|
+|2019.12.18|[문제](https://programmers.co.kr/learn/courses/30/lessons/42860)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/42747?language=swift)|[민멍구]| 어려운->중간 난이도 문제 |
 
 
 
