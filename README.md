@@ -33,7 +33,7 @@
 |2019.12.17|[문제](https://programmers.co.kr/learn/courses/30/lessons/12925)|[도미닉]|[문제](https://www.acmicpc.net/problem/1790)|[민멍구]|-|
 |2019.12.18|[문제](https://programmers.co.kr/learn/courses/30/lessons/42860)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/42747?language=swift)|[민멍구]| 매운맛->중간맛 출제 |
 |2019.12.19|-|-|[문제](https://www.acmicpc.net/problem/6588)|[민멍구]| 매운맛->중간맛 출제 |
-|2019.12.20|[문제](https://programmers.co.kr/learn/courses/30/lessons/42748|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12985?language=swift)|[민멍구]| 매운맛->중간맛 출제 |
+|2019.12.20|[문제](https://programmers.co.kr/learn/courses/30/lessons/42748)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12985?language=swift)|[민멍구]| 매운맛->중간맛 출제 |
 
 
 
