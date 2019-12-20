@@ -34,7 +34,7 @@
 |2019.12.18|[문제](https://programmers.co.kr/learn/courses/30/lessons/42860)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/42747?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.19|-|-|[문제](https://www.acmicpc.net/problem/6588)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.20|[문제](https://programmers.co.kr/learn/courses/30/lessons/42748)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12985?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
-|2019.12.21| |[도미닉]|[문제](https://www.acmicpc.net/problem/1676)|[라이노]| 어려운 문제를 중간 단계로 출제 |
+|2019.12.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/42862)|[도미닉]|[문제](https://www.acmicpc.net/problem/1676)|[라이노]| 어려운 문제를 중간 단계로 출제 |
 
 
 
