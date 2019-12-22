@@ -36,8 +36,7 @@
 |2019.12.20|[문제](https://programmers.co.kr/learn/courses/30/lessons/42748)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12985?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/42862)|[도미닉]|[문제](https://www.acmicpc.net/problem/1676)|[라이노]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.22|[문제](https://programmers.co.kr/learn/courses/30/lessons/12901)|[도미닉]|[문제](https://www.acmicpc.net/problem/2482)|[라이노]||
-
-
+|2019.12.23||[도미닉]|[문제](https://www.acmicpc.net/problem/1654)|[라이노]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
