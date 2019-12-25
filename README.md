@@ -39,7 +39,7 @@
 |2019.12.23|-|-|[문제](https://www.acmicpc.net/problem/1654)|[라이노]||
 |2019.12.24|[문제](https://programmers.co.kr/learn/courses/30/lessons/12903)|[도미닉]|[문제](https://www.acmicpc.net/problem/1920)|[라이노]|어려운 문제도 쉬운 문제로 출제|
 |2019.12.25|-|-|-|-|-|
-|2019.12.26|[문제](https://programmers.co.kr/learn/courses/30/lessons/12910)|[도미닉]||[라이노]|-|
+|2019.12.26|[문제](https://programmers.co.kr/learn/courses/30/lessons/12910)|[도미닉]|[문제](https://www.acmicpc.net/problem/18229)|[라이노]|어려움 문제도 쉬운문제로 출제|
 
 
 [라이노]: https://github.com/JCSooHwanCho
