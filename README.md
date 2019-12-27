@@ -41,6 +41,8 @@
 |2019.12.25|-|-|-|-|-|
 |2019.12.26|[문제](https://programmers.co.kr/learn/courses/30/lessons/12910)|[도미닉]|[문제](https://www.acmicpc.net/problem/18229)|[라이노]|어려움 문제도 쉬운문제로 출제|
 |2019.12.27|[문제](https://www.acmicpc.net/problem/1436)|[라이노]|-|-|-|
+|2019.12.28|[문제](https://programmers.co.kr/learn/courses/30/lessons/12912)|[도미닉]|-|-|-|
+
 
 
 [라이노]: https://github.com/JCSooHwanCho
