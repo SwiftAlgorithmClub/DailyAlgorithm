@@ -45,7 +45,9 @@
 |2019.12.29|[문제](https://programmers.co.kr/learn/courses/30/lessons/12915)|[도미닉]|[문제](https://www.acmicpc.net/problem/18221)|[라이노]|-|
 |2019.12.30|[문제](https://programmers.co.kr/learn/courses/30/lessons/12916)|[도미닉]|[문제](https://www.acmicpc.net/problem/18222)|[라이노]|-|
 |2019.12.31|[문제](https://programmers.co.kr/learn/courses/30/lessons/12917)|[도미닉]|-|-|-|
-|2020.01.01|[문제](https://www.acmicpc.net/problem/1623)|[도미닉]||[라이노]|-|
+|2020.01.01|[문제](https://www.acmicpc.net/problem/1623)|[도미닉]|-|-|-|
+|2020.01.02|[문제](https://programmers.co.kr/learn/courses/30/lessons/12918)|[도미닉]|-|-|-|
+
 
 
 [라이노]: https://github.com/JCSooHwanCho
