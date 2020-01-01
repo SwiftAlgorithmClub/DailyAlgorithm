@@ -1,7 +1,7 @@
 # DailyAlgorithm
 매일 문제가 올라옵니다.
 
-| 날짜 | 쉬운 문제 링크 | 출제자 | 어려운 문제 링크 | 출제자 | 비고 |
+| 날짜 | 문제1 링크 | 출제자 | 문제2 링크 | 출제자 | 비고 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [이전](old.md) |[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 |2019.11.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/12904)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)| [라이노] | - |
