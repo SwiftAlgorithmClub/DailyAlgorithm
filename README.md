@@ -48,7 +48,7 @@
 |2020.01.01|[문제](https://www.acmicpc.net/problem/1623)|[도미닉]|-|-|-|
 |2020.01.02|[문제](https://programmers.co.kr/learn/courses/30/lessons/12918)|[도미닉]|[문제](https://www.acmicpc.net/problem/1009)|[라이노]|-|
 |2020.01.03|[문제](https://programmers.co.kr/learn/courses/30/lessons/12919)|[도미닉]|[문제](https://www.acmicpc.net/problem/1012)|[라이노]|-|
-|2020.01.04|[문제](https://programmers.co.kr/learn/courses/30/lessons/12921)|[도미닉]||-|-|
+|2020.01.04|[문제](https://programmers.co.kr/learn/courses/30/lessons/12921)|[도미닉]|-|-|-|
 |2020.01.05|[문제](https://programmers.co.kr/learn/courses/30/lessons/12922)|[도미닉]||[라이노]|-|
 
 
