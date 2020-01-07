@@ -52,7 +52,7 @@
 |2020.01.05|[문제](https://programmers.co.kr/learn/courses/30/lessons/12922)|[도미닉]|-|-|-|
 |2020.01.06|[문제](https://programmers.co.kr/learn/courses/30/lessons/12926)|[도미닉]|-|-|-|
 |2020.01.07|[문제](https://programmers.co.kr/learn/courses/30/lessons/12928)|[도미닉]|-|-|-|
-|2020.01.08|[문제](https://programmers.co.kr/learn/courses/30/lessons/12928)|[도미닉]|[문제](https://www.acmicpc.net/problem/2468)|[민멍구]|-|
+|2020.01.08|[문제](https://programmers.co.kr/learn/courses/30/lessons/12930)|[도미닉]|[문제](https://www.acmicpc.net/problem/2468)|[민멍구]|-|
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
