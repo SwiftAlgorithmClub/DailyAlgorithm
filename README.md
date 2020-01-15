@@ -27,7 +27,7 @@
 |2019.12.11|[문제](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)| [도미닉] |[문제](https://www.acmicpc.net/problem/15651) | [라이노] | - |
 |2019.12.12|[문제](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)| [도미닉] |   [문제](https://www.acmicpc.net/problem/9465)| [민멍구] | - |
 |2019.12.13|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)| [도미닉] | - | - | - |
-|2019.12.14|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [도미닉] |   [문제](https://www.acmicpc.net/problem/11726)| [민멍구] | |
+|2019.12.14|[문제](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [도미닉] |   [문제](https://www.acmicpc.net/problem/11726)| [민멍구] | - |
 |2019.12.15|[문제](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)|[도미닉]|[문제](https://www.acmicpc.net/problem/2193)|[민멍구]|-|
 |2019.12.16|[문제](https://programmers.co.kr/learn/courses/30/lessons/42587)|[도미닉]|[문제](https://www.acmicpc.net/problem/2529)|[민멍구]|-|
 |2019.12.17|[문제](https://programmers.co.kr/learn/courses/30/lessons/12925)|[도미닉]|[문제](https://www.acmicpc.net/problem/1790)|[민멍구]|-|
@@ -35,8 +35,8 @@
 |2019.12.19|-|-|[문제](https://www.acmicpc.net/problem/6588)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.20|[문제](https://programmers.co.kr/learn/courses/30/lessons/42748)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12985?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/42862)|[도미닉]|[문제](https://www.acmicpc.net/problem/1676)|[라이노]| 어려운 문제를 중간 단계로 출제 |
-|2019.12.22|[문제](https://programmers.co.kr/learn/courses/30/lessons/12901)|[도미닉]|[문제](https://www.acmicpc.net/problem/2482)|[라이노]||
-|2019.12.23|-|-|[문제](https://www.acmicpc.net/problem/1654)|[라이노]||
+|2019.12.22|[문제](https://programmers.co.kr/learn/courses/30/lessons/12901)|[도미닉]|[문제](https://www.acmicpc.net/problem/2482)|[라이노]|-|
+|2019.12.23|-|-|[문제](https://www.acmicpc.net/problem/1654)|[라이노]|-|
 |2019.12.24|[문제](https://programmers.co.kr/learn/courses/30/lessons/12903)|[도미닉]|[문제](https://www.acmicpc.net/problem/1920)|[라이노]|어려운 문제도 쉬운 문제로 출제|
 |2019.12.25|-|-|-|-|-|
 |2019.12.26|[문제](https://programmers.co.kr/learn/courses/30/lessons/12910)|[도미닉]|[문제](https://www.acmicpc.net/problem/18229)|[라이노]|어려움 문제도 쉬운문제로 출제|
@@ -59,8 +59,8 @@
 |2020.01.12|[문제](https://programmers.co.kr/learn/courses/30/lessons/12934)|[도미닉]|[문제](https://www.acmicpc.net/problem/2573)|[민멍구]|-|-|
 |2020.01.13|[문제](https://programmers.co.kr/learn/courses/30/lessons/12935)|[도미닉]|[문제](https://leetcode.com/problems/next-permutation)|[민멍구]|-|-|
 |2020.01.14|[문제](https://programmers.co.kr/learn/courses/30/lessons/12937)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12949)|[민멍구]|-|-|
-|2020.01.15|[문제](https://programmers.co.kr/learn/courses/30/lessons/12944)|[도미닉]||[민멍구]|-|-|
-
+|2020.01.15|[문제](https://programmers.co.kr/learn/courses/30/lessons/12944)|[도미닉]|-|-|-|-|
+|2020.01.16|[문제](https://programmers.co.kr/learn/courses/30/lessons/12947)|[도미닉]||[민멍구]|-|-|
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
