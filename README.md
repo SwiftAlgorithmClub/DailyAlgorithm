@@ -60,7 +60,7 @@
 |2020.01.13|[문제](https://programmers.co.kr/learn/courses/30/lessons/12935)|[도미닉]|[문제](https://leetcode.com/problems/next-permutation)|[민멍구]|-|-|
 |2020.01.14|[문제](https://programmers.co.kr/learn/courses/30/lessons/12937)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12949)|[민멍구]|-|-|
 |2020.01.15|[문제](https://programmers.co.kr/learn/courses/30/lessons/12944)|[도미닉]|-|-|-|-|
-|2020.01.16|[문제](https://programmers.co.kr/learn/courses/30/lessons/12947)|[도미닉]||[민멍구]|-|-|
+|2020.01.16|[문제](https://programmers.co.kr/learn/courses/30/lessons/12947)|[도미닉]|[문제](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[민멍구]|-|-|
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
