@@ -31,10 +31,10 @@
 |2019.12.15|[쉬운 문제](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/2193)|[민멍구]|-|
 |2019.12.16|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42587)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/2529)|[민멍구]|-|
 |2019.12.17|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12925)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/1790)|[민멍구]|-|
-|2019.12.18|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42860)|[도미닉]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/42747?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
+|2019.12.18|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42860)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/42747?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.19|-|-|[중간 문제](https://www.acmicpc.net/problem/6588)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.20|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42748)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/12985?language=swift)|[민멍구]| 어려운 문제를 중간 단계로 출제 |
-|2019.12.21|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42862)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/1676)|[라이노]| 어려운 문제를 중간 단계로 출제 |
+|2019.12.21|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42862)|[도미닉]|[중간 문제](https://www.acmicpc.net/problem/1676)|[라이노]| 어려운 문제를 중간 단계로 출제 |
 |2019.12.22|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12901)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/2482)|[라이노]|-|
 |2019.12.23|-|-|[어려운 문제](https://www.acmicpc.net/problem/1654)|[라이노]|-|
 |2019.12.24|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12903)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/1920)|[라이노]|어려운 문제도 쉬운 문제로 출제|
