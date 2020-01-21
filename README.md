@@ -1,7 +1,7 @@
 # DailyAlgorithm
 매일 문제가 올라옵니다.
 
-| 날짜 | 문제1 링크 | 출제자 | 문제2 링크 | 출제자 | 비고 |
+| 날짜 | 쉬운 문제 링크 | 출제자 | 어려운 문제 링크 | 출제자 | 비고 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [이전](old.md) |[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 |2019.11.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/12904)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)| [라이노] | - |
@@ -64,6 +64,7 @@
 |2020.01.17|[문제](https://programmers.co.kr/learn/courses/30/lessons/12950)|[도미닉]|[문제](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[민멍구]|-|-|
 |2020.01.18|[문제](https://programmers.co.kr/learn/courses/30/lessons/12954)|[도미닉]|[문제](https://leetcode.com/problems/distant-barcodes/)|[민멍구]|-|-|
 |2020.01.21|-|-|[문제](https://leetcode.com/problems/top-k-frequent-words/submissions/)|[민멍구]|-|
+|2020.01.22|[문제](https://programmers.co.kr/learn/courses/30/lessons/12969)|[도미닉]||[민멍구]|-|
 
 
 [라이노]: https://github.com/JCSooHwanCho
