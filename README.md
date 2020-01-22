@@ -64,7 +64,8 @@
 |2020.01.17|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12950)|[도미닉]|[어려운 문제](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[민멍구]|-|-|
 |2020.01.18|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12954)|[도미닉]|[어려운 문제](https://leetcode.com/problems/distant-barcodes/)|[민멍구]|-|-|
 |2020.01.21|-|-|[어려운 문제](https://leetcode.com/problems/top-k-frequent-words/submissions/)|[민멍구]|-|
-|2020.01.22|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12969)|[도미닉]||[민멍구]|-|
+|2020.01.22|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12969)|[도미닉]|-|-|-|
+|2020.01.23|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/17681)|[도미닉]|-|[민멍구]|-|
 
 
 [라이노]: https://github.com/JCSooHwanCho
