@@ -66,21 +66,7 @@
 |2020.01.21|-|-|[어려운 문제](https://leetcode.com/problems/top-k-frequent-words/submissions/)|[민멍구]|-|
 |2020.01.22|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12969)|[도미닉]|-|-|-|
 |2020.01.23|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/17681)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/42578)|[민멍구]|-|
-|2020.01.24|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42889)|[도미닉]|[중간 문제](#include <string>
-#include <vector>
-
-using namespace std;
-
-vector<int> solution(vector<int> prices) {
-    vector<int> answer((int)prices.size(),0);
-    for(int i=0; i<prices.size()-1; i++) {
-        for(int j=i; j<prices.size()-1; j++) {
-            if(prices[i] <= prices[j]) answer[i]++;
-            else break;
-        }
-    }
-    return answer;
-})|[민멍구]|-|
+|2020.01.24|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42889)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/42584)|[민멍구]|-|
 
 
 [라이노]: https://github.com/JCSooHwanCho
