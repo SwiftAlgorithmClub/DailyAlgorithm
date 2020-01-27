@@ -67,8 +67,8 @@
 |2020.01.22|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/12969)|[도미닉]|-|-|-|
 |2020.01.23|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/17681)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/42578)|[민멍구]|-|
 |2020.01.24|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42889)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/42842)|[민멍구]|-|
-|2020.01.25|||[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/43238)|[민멍구]|이전출제문제로 어려운문제 재출제|
-|2020.01.26|||[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/43162)|[민멍구]||
+|2020.01.25|-|-|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/43238)|[민멍구]|이전출제문제로 어려운문제 재출제|
+|2020.01.26|-|-|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/43162)|[민멍구]||
 |2020.01.27|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/12987)|[민멍구]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/12929)|[민멍구]|이전출제문제로 어려운문제 재출제|
 |2020.01.28|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/17682)|[도미닉]||[민멍구]||
 
