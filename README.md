@@ -69,7 +69,7 @@
 |2020.01.24|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/42889)|[도미닉]|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/42842)|[민멍구]|-|
 |2020.01.25|||[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/43238)|[민멍구]|이전출제문제로 어려운문제 재출제|
 |2020.01.26|||[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/43162)|[민멍구]||
-|2020.01.27|||[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/12987)|[민멍구]||
+|2020.01.27|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/12987)|[민멍구]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/12929)|[민멍구]|이전출제문제로 어려운문제 재출제|
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
