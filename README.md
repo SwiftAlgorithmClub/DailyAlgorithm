@@ -72,7 +72,7 @@
 |2020.01.27|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/12987)|[민멍구]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/12929)|[민멍구]|이전출제문제로 어려운문제 재출제|
 |2020.01.28|[쉬운 문제](https://programmers.co.kr/learn/courses/30/lessons/17682)|[도미닉]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/49191)|[민멍구]||
 |2020.01.29|-|-|[어려운 문제](https://www.acmicpc.net/problem/1987)|[민멍구]||
-|2020.01.30|[쉬운 문제](https://www.acmicpc.net/problem/1000)|[도미닉]||[민멍구]||
+|2020.01.30|[쉬운 문제](https://www.acmicpc.net/problem/1000)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/2210)|[민멍구]||
 
 
 
