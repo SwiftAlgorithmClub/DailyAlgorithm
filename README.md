@@ -74,7 +74,8 @@
 |2020.01.29|-|-|[어려운 문제](https://www.acmicpc.net/problem/1987)|[민멍구]||
 |2020.01.30|[쉬운 문제](https://www.acmicpc.net/problem/1000)|[도미닉]|[어려운 문제](https://www.acmicpc.net/problem/2210)|[민멍구]||
 |2020.01.31|-|-|[어려운 문제](https://www.acmicpc.net/problem/2110)|[민멍구]||
-
+|2020.02.1|[쉬운 문제](https://www.acmicpc.net/problem/3943)|[민멍구]|[어려운 문제](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[민멍구]||
+|2020.02.2|[쉬운 문제](https://leetcode.com/problems/min-stack/submissions/)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/1021)|[민멍구]||
 
 
 [라이노]: https://github.com/JCSooHwanCho
