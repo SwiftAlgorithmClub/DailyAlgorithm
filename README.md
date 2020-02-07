@@ -80,6 +80,7 @@
 |2020.02.4|[중간 문제](https://www.acmicpc.net/problem/1834)|[민멍구]|[중간 문제2](https://programmers.co.kr/learn/courses/30/lessons/60058)|[민멍구]||
 |2020.02.5|[중간 문제](https://www.acmicpc.net/problem/1049)|[민멍구]|[중간 문제2](https://programmers.co.kr/learn/courses/30/lessons/17683)|[민멍구]||
 |2020.02.6|[쉬운 문제](https://www.acmicpc.net/problem/1972)|[민멍구]|[중간 문제](https://leetcode.com/problems/top-k-frequent-elements/)|[민멍구]||
+|2020.02.7|[중간 문제](https://www.acmicpc.net/problem/11722)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/11055)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
