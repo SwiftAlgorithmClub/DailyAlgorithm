@@ -84,6 +84,7 @@
 |2020.02.8|[쉬운 문제](https://www.acmicpc.net/problem/1356)|[민멍구]|[중간 문제](https://www.acmicpc.net/problem/2644)|[민멍구]||
 |2020.02.9|[중간 문제](https://www.acmicpc.net/problem/7785)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/10026)|[민멍구]||
 |2020.02.10|[쉬운 문제](https://www.acmicpc.net/problem/2869)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/2579)|[민멍구]||
+|2020.02.11|[쉬운 문제](https://www.acmicpc.net/problem/2985)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/5557)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
