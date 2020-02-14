@@ -88,6 +88,7 @@
 |2020.02.12|[중간 문제](https://www.acmicpc.net/problem/1715)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/3665)|[민멍구]||
 |2020.02.13|[쉬운 문제](https://www.acmicpc.net/problem/10757)|[민멍구]|[중간 문제](https://www.acmicpc.net/problem/9536)|[민멍구]||
 |2020.02.14|[쉬운 문제](https://www.acmicpc.net/problem/2903)|[민멍구]|[중간 문제](https://leetcode.com/problems/unique-paths)|[민멍구]||
+|2020.02.15|[중간 문제](https://programmers.co.kr/learn/courses/30/lessons/17677)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/1697)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
