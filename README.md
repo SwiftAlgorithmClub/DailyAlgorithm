@@ -93,6 +93,7 @@
 |2020.02.17|[중간 문제](https://www.acmicpc.net/problem/9507)|[민멍구]|[중간 문제2](https://leetcode.com/problems/delete-operation-for-two-strings/)|[민멍구]||
 |2020.02.18|[중간 문제](https://www.acmicpc.net/problem/3896)|[민멍구]|-|-||
 |2020.02.19|[중간 문제](https://www.acmicpc.net/problem/11727)|[민멍구]|-|-||
+|2020.02.20|[중간 문제](https://leetcode.com/problems/print-words-vertically/)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/1963)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
