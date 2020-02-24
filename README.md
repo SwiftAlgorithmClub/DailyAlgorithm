@@ -96,6 +96,7 @@
 |2020.02.20|[중간 문제](https://leetcode.com/problems/print-words-vertically/)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/1963)|[민멍구]||
 |2020.02.21|[쉬운 문제](https://www.acmicpc.net/problem/1388)|[민멍구]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/42628)|[민멍구]||
 |2020.02.22|[쉬운 문제](https://www.acmicpc.net/problem/10570)|[민멍구]|[어려운 문제](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[민멍구]||
+|2020.02.24|[쉬운 문제](https://leetcode.com/problems/reverse-integer/)|[민멍구]|[중간 문제](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
