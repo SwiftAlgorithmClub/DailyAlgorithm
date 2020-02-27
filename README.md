@@ -99,6 +99,7 @@
 |2020.02.24|[쉬운 문제](https://leetcode.com/problems/reverse-integer/)|[민멍구]|[중간 문제](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[민멍구]||
 |2020.02.25|[중간 문제](https://www.acmicpc.net/problem/2596)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/1644)|[민멍구]||
 |2020.02.26|[중간 문제](https://leetcode.com/problems/sort-colors/)|[민멍구]|[중간 문제2](https://www.acmicpc.net/problem/18111)|[민멍구]||
+|2020.02.27|[중간 문제](https://www.acmicpc.net/problem/4150)|[민멍구]|[중간 문제2](https://programmers.co.kr/learn/courses/30/lessons/42578)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
