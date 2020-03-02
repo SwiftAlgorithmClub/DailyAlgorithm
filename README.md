@@ -102,7 +102,7 @@
 |2020.02.27|[중간 문제](https://www.acmicpc.net/problem/4150)|[민멍구]|[중간 문제2](https://programmers.co.kr/learn/courses/30/lessons/42578)|[민멍구]||
 |2020.02.28|[쉬운 문제](https://www.acmicpc.net/problem/2231)|[민멍구]|[중간 문제](https://www.acmicpc.net/problem/5525)|[민멍구]||
 |2020.03.01|[중간 문제](https://www.acmicpc.net/problem/12865)|[라이노]|-|-||
-|2020.03.02|-|-|[어려운 문제](https://www.acmicpc.net/problem/14503)|[민멍구]||
+|2020.03.02|[중간 문제](https://www.acmicpc.net/problem/1213)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/14503)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
