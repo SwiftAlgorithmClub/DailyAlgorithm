@@ -108,7 +108,7 @@
 |2020.03.05|[중간 문제](https://www.acmicpc.net/problem/2312)|[민멍구]|[중간 문제2](https://www.acmicpc.net/problem/11660)|[민멍구]||
 |2020.03.06|[중간 문제](https://www.acmicpc.net/problem/1912)|[라이노]|[중간 문제2](https://www.acmicpc.net/problem/1058)|[라이노]||
 |2020.03.07|[쉬운 문제](https://www.acmicpc.net/problem/10812)|[민멍구]|[중간 문제](https://www.acmicpc.net/problem/9934)|[라이노]||
-|2020.03.08|[쉬운 문제](https://www.acmicpc.net/problem/10816)|[민멍구]|[어려운 문제](https://www.acmicpc.net/problem/1038)|[라이노]||
+|2020.03.08|[쉬운 문제](https://www.acmicpc.net/problem/10816)|[라이노]|[어려운 문제](https://www.acmicpc.net/problem/1038)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
