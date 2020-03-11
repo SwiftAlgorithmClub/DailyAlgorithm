@@ -111,6 +111,7 @@
 |2020.03.08|[쉬운 문제](https://www.acmicpc.net/problem/10816)|[라이노]|[어려운 문제](https://www.acmicpc.net/problem/1038)|[민멍구]||
 |2020.03.09|[중간 문제](https://www.acmicpc.net/problem/17626)|[라이노]|[중간 문제2](https://www.acmicpc.net/problem/2805)|[라이노]||
 |2020.03.10|[중간 문제](https://www.acmicpc.net/problem/11279)|[라이노]|[중간 문제2](https://www.acmicpc.net/problem/11497)|[민멍구]||
+|2020.03.11|[중간 문제](https://www.acmicpc.net/problem/1697)|[라이노]|[어려운 문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|[민멍구]||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
