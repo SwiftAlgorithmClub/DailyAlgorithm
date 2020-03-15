@@ -115,6 +115,7 @@
 |2020.03.12|[중간 문제](https://www.acmicpc.net/problem/7576)|[라이노]|[중간 문제2](https://www.acmicpc.net/problem/7569)|[라이노]||
 |2020.03.13|[중간 문제](https://www.acmicpc.net/problem/11286)|[라이노]|[중간 문제2](https://www.acmicpc.net/problem/11052)|[민멍구]||
 |2020.03.14|[중간 문제](https://www.acmicpc.net/problem/1793)|[민멍구]|[중간 문제2](https://www.acmicpc.net/problem/11403)|[라이노]||
+|2020.03.15|[중간 문제](www.acmicpc.net/problem/2583)|[민멍구]|-|-||
 
 [라이노]: https://github.com/JCSooHwanCho
 [도미닉]: https://github.com/AppleCEO
